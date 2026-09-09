@@ -20,7 +20,7 @@ from pathlib import Path
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Financial Fraud Intelligence Platform",
+    page_title="💹Financial Fraud Intelligence Platform",
     layout="wide",
     initial_sidebar_state="expanded"
 )
